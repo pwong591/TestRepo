@@ -2,5 +2,5 @@
 
 a = 3
 b = 4
-
-print "sum: " + str(a+b)
+c = 5
+print "sum: " + str(a+b+c)
